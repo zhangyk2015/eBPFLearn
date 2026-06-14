@@ -1,0 +1,10 @@
+# ignore pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C
+*.so
+
+# logs
+*.log
