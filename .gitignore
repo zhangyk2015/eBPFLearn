@@ -2,9 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
+.venv/
+
 
 # C
 *.so
 
 # logs
 *.log
+
+# IDE
+.vscode/
